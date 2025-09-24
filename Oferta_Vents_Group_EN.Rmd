@@ -683,4 +683,12 @@ theme_tbl_df(airvents, caption = "Compact AirVents units — technical parameter
 
 ---
 
-Learn more on the [Vents Group website](https://vents-group.pl/).
+# Part of Blauberg Group
+
+Blauberg Group representative offices and partner branches are located in many countries across different continents to ensure timely delivery of products and services to all customers.
+
+In production facilities with a total area of over 210,000 m², we employ more than 3,500 highly qualified specialists who manufacture top-quality products offered in over 120 countries worldwide.
+
+![](images/mapka.jpg)
+
+Learn more on the [Vents Group website](https://vents-group.pl/) or at [blauberg.pl](blauberg.pl).
